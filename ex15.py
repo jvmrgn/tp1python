@@ -1,4 +1,3 @@
-
 def inicio():
   print("Você está em uma floresta escura.")
   print("Você pode ir para a esquerda ou para a direita.")
